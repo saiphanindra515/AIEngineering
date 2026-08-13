@@ -2,3 +2,5 @@ venv
 __pycache__
 .env
 .venv
+uv.lock
+.DS_Store
